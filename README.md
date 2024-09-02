@@ -26,7 +26,7 @@ Este proyecto es un gestor de tareas desarrollado con Laravel, que permite a los
 
 1. Clonar el Repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/soyNaohj/CRUD_GESTORTAREAS.git
 
 2. **Instalar Dependencias:**
    Navega al directorio del proyecto y ejecuta:
